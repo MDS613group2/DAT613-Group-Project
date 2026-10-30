@@ -1,4 +1,4 @@
-# DAT 613 — Group 2: NumPy Pipeline for Ingredient Planning
+# DAT 613 - Group 2: NumPy Pipeline for Ingredient Planning
 
 MamaPut Express runs 12 branches in Lagos and Abuja. Managers order
 ingredients by guesswork, so some branches waste rice and others run out
