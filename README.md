@@ -18,7 +18,7 @@ busiest.
 
 ## How to run it
 
-1. Open `DAT 613 GROUP 2 ASSIGNMENT.ipynb` in Google Colab
+1. Open `DAT_613_GROUP_2_ASSIGNMENT.ipynb` in Google Colab
 2. Upload the `.npz` data file using the folder icon on the left
 3. Set `DATA_PATH` in the second cell to your file name
 4. Runtime → Run all
@@ -29,8 +29,8 @@ Requires NumPy and Matplotlib only. Both are pre-installed in Colab.
 
 ## Group members
 
-- Name — data and structure
-- Name — data problems
-- Name — analysis
-- Name — business answers and charts
-- Name — integration and report
+- Olivia Akabogu — data and structure
+- Onyeka Aribeana — data problems
+- Chidiogo Anaenye — analysis
+- Elizabeth Alarape — business answers and charts
+- Rebecca Alarapon — integration and report
