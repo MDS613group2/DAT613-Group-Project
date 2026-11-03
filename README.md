@@ -33,4 +33,4 @@ Requires NumPy and Matplotlib only. Both are pre-installed in Colab.
 - Onyeka Aribeana — data problems
 - Chidiogo Anaenye — analysis
 - Elizabeth Alarape — business answers and charts
-- Rebecca Alarapon — integration and report
+- Rebecca Alarapon — integration and report: I own the function that runs everything, the speed test, the GitHub repo, and the live demo.
